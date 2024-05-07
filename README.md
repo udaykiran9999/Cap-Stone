@@ -24,4 +24,10 @@ Welcome to the Supermarket Sales Predictive Analysis Repository, your one-stop d
 - ### Model Evaluation:
   - Utilized cross-validation techniques to assess model performance based on metrics like Mean Squared Error (MSE) and R-squared (R2) scores. 
 - ### Model Tuning:
-- 
+- Optimized hyperparameters for the selected model (Gradient Boosting Regressor) to further enhance predictive accuracy.
+ ## Future Research & Ideas
+   - It would be nice to be able to perform this type of modeling on different datasets. More specifically, we could use these datasets to gather valuable insights and make our model more powerful.
+   - Our modeling is tailored for supermarkets. However, every supermarket may be different based on needs and desires.
+   - We could provide consultancy services to various supermarkets and use their data to apply more features to their specific situation.
+   - We could deploy this modeling on their current infrastructure so that it is tailor made.
+
